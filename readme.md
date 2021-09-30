@@ -54,3 +54,4 @@ curl https://get.starport.network/example/blog@latest! | sudo bash
 - [Cosmos SDK documentation](https://docs.cosmos.network)
 - [Cosmos SDK Tutorials](https://tutorials.cosmos.network)
 - [Discord](https://discord.gg/W8trcGV)
+# cosmos-blog
